@@ -1,0 +1,60 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Doom2.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "C:\\Program Files (x86)\\Zandronum\\brutalv21.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			
+			resource1
+			{
+				type = 2;
+				location = "C:\\Program Files (x86)\\Zandronum\\skins\\HD textures.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+			
+			resource2
+			{
+				type = 0;
+				location = "C:\\Program Files (x86)\\Zandronum\\skins\\DoomMetalVol4.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32;
+		}
+		
+	}
+	
+}
+

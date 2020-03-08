@@ -1,0 +1,74 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "ZDoom_Doom.cfg";
+strictpatches = 1;
+
+maps
+{
+	
+	MAP03
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 4;
+		}
+		
+	}
+	
+	
+	MAP01
+	{
+		
+		resources
+		{
+		}
+		
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 1;
+		}
+		
+	}
+	
+	
+	MAP02
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 1;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+	}
+	
+}
+
