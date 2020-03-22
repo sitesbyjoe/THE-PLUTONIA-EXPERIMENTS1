@@ -21,7 +21,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 16;
+			gridsize = 1;
 		}
 		
 	}
@@ -32,6 +32,16 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "C:\\Users\\Isaac\\Documents\\Doom Builder\\THE-PLUTONIA-EXPERIMENTS\\The Plutonia Experiments.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
 		}
 		
 		
@@ -61,6 +71,28 @@ maps
 			background = "";
 			backsource = 0;
 			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+	}
+	
+	
+	MAP04
+	{
+		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 4;
 		}
 		
 		
