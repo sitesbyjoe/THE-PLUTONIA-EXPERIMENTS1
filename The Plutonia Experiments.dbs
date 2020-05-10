@@ -92,7 +92,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 4;
+			gridsize = 2;
 		}
 		
 		
